@@ -1,0 +1,184 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: rgb(230, 238, 240);
+}
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.div_clear{
+  clear: both;
+}
+
+
+
+
+/*section one name started from here*/
+
+.section-no-one{
+  width: 100%;
+  background-image:url('images/header-bg.png');
+}
+.profile_img{
+  width: 250px;
+}
+.section-one-name-right{
+  float: right;
+}
+.section-one-name-left{
+  float: left;
+  padding: 150px 0px 0px 90px;
+}
+.section-one-name-left h2{
+  color: #000;
+  font-size: 50px;
+}
+.section-one-name-left h1{
+  color: rgb(216, 41, 41);
+  font-size: 50px;
+}
+.section-one-name-left p{
+  color: rgb(3, 0, 0);
+  font-size: 20px;
+}
+.section-one-name-left button{
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  background-color: rgb(190, 41, 41);
+  padding: 10px 30px 10px 30px;
+}
+.section-one-name-right{
+  padding: 120px 300px 4px 90px;
+}
+/*section one name end here*/
+
+
+
+/*section two started from here*/
+.section-no-two{
+  width: 100%;
+  background-image:url('images/header-bg.png');
+}
+.section-two-name-left{
+  width: 50%;
+  float: left;
+
+}
+.section-two-name-right{
+  width: 50%;
+  float: right;
+
+}
+.section-two-name-right p{
+  white-space: pre;
+}
+.section-two-name-right button{
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  background-color: rgb(190, 41, 41);
+  padding: 10px 30px 10px 30px;
+}
+.section-two-name-right h1{
+  color: #000;
+  font-size: 50px;
+  font-weight: bold;
+}
+.section-two-name-left img{
+  padding: 10px 10px 10px 100px;
+}
+/*section two end here*/
+
+
+
+
+/*section three end here*/
+.section-no-three{
+  width: 100%;
+}
+.section-three-name-left h1{
+ text-align: center;
+ font-size: 40px;
+ color: #000;
+}
+.section-three-name-right img{
+  width: 400px;
+  padding: 10px 10px 10px 10px;
+}
+/*section three end here*/
+
+
+
+
+
+/*section three end here*/
+.client-are-say{
+  width: 100%;
+}
+.clint-are-say-two h1{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color: #000;
+}
+.clint-are-say-two h3{
+  font-size: 38px;
+  font-weight: bold;
+  text-align: center;
+  color: #000;
+}
+.clint-are-say-two h6{
+  font-size: 30px;
+  text-align: center;
+  color: rgb(92, 80, 80);
+}
+.clint-are-say-two p{
+  font-size: 25px;
+  text-align: center;
+  color: #000;
+  white-space: pre;
+}
+/*section three end here*/
+
+
+/*section three end here*/
+.red-bottom-section{
+  width: 100%;
+  background-color: rgb(207, 56, 87);
+}
+.red-bottom-cection-one p{
+ text-align: center;
+ color: rgb(255, 255, 255);
+ font-size: 20px;
+}
+.red-bottom-cection-one h3{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+}
+.red-bottom-cection-one{
+  padding: 20px 10px 20px 10px;
+}
+/*section three end here*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
